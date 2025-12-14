@@ -45,8 +45,8 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-project-folder>
+    git clone https://github.com/lavi-star/sweet-shop-assesment
+    cd sweet-shop-assesment
     ```
 
 2.  **Install dependencies:**
